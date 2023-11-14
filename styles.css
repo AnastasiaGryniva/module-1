@@ -19,7 +19,7 @@ h1 {
 }
 
 .fon {
-    background-image: url(/module-1/resources/fon.png);
+    background-image: url(../fon.png);
     width: 1150px;
     height: 500px;
     margin-top: 29px;
